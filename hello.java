@@ -8,4 +8,5 @@ System.out.println(赵聪是SB)
 	赵聪是FW
 	al22
 	zhaocong
+	赵聪2
 }

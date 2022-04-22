@@ -9,4 +9,5 @@ System.out.println(赵聪是SB)
 	al22
 	zhaocong
 	赵聪2
+	lisi
 }

@@ -12,4 +12,5 @@ System.out.println(赵聪是SB)
 	al22
 	lisi
 	赵聪3号
+	22323
 }

@@ -7,4 +7,10 @@ System.out.println(赵聪是SB)
 	66664
 	赵聪是FW
 	al22
+	zhaocong
+	赵聪2
+	al22
+	lisi
+	赵聪3号
+	22323
 }

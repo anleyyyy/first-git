@@ -1,11 +1,11 @@
 hello.world;
 public static void main(String [] args){
-System.out.println(赵聪是SB)
-	赵聪FW
+System.out.println(安乐是SB)
+	安乐FW
 	123456
 	zzz
 	66664
-	赵聪是FW
+	安乐是FW
 	al22
 	zhaocong
 	赵聪2
